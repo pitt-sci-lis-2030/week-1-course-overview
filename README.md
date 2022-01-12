@@ -6,9 +6,11 @@ This repository contains the lecture and lab exercises for week 1 of LIS 2030.
 
 
 * Introduction to Jupyter
-    * JupyterLab
-    * Jupyter Notebooks
-    * Markdown
+* Python / Jupyter Ecosystem
+* Why Jupyter
+* JupyterLab
+* Anatomy of a Jupyter Notebook
+* Markdown
 
 
 ## Access This Repository
